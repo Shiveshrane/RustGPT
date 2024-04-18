@@ -1,0 +1,12 @@
+[
+  {
+    "route": "/stock/{name}",
+    "is_route_dynamic": "true",
+    "method": "get",
+    "request_body": "None",
+    "response": {
+      "name": "string",
+      "price": "number"
+    }
+  }
+]
